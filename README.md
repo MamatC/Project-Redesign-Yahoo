@@ -1,4 +1,4 @@
-# Project Redesign Yahoo
+# Project Material Design
 
 
 ## Étape 1
